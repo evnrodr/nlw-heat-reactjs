@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://nlw-heat-nodejs.herokuapp.com/",
+  baseURL: "https://nlw-heat-nodejs.herokuapp.com/",
 });
